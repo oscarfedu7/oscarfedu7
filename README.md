@@ -1,5 +1,6 @@
 
-![image](https://user-images.githubusercontent.com/96603116/147365632-83e5735f-2e90-45ef-9570-4e5bb931d536.png)
+
+ <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1">via GIPHY</a></p>
 
 
 - 👋 Hola, soy Oscar, estudiante de la Universidad Michoacana de San Nicolás de Hidalgo. Estudio la licenciatura en ciencias físico-matemáticas.

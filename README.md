@@ -1,3 +1,6 @@
+
+
+
 - 👋 Hola, soy Oscar, estudiante de la Universidad Michoacana de San Nicolás de Hidalgo. Estududio la licenciatura en ciencias físico-matemáticas.
 - 👀 Estoy interesado en compartir algunos proyectos escolares y personales relacionados con el mundo de la programación.
       Los proyectos que encontrarán en este perfil son muy diversos, pues a lo largo de mi formación universitaria he aprendido 

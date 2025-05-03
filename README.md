@@ -3,7 +3,7 @@
 
 - 👋 Hola, soy Oscar, egresado de la Universidad Michoacana de San Nicolás de Hidalgo. Estudié la licenciatura en ciencias físico-matemáticas.
 - 👀 Estoy interesado en compartir algunos proyectos escolares y personales relacionados con el mundo de la programación.
-      Los proyectos que encontrarán en este perfil son muy diversos, pues a lo largo de mi formación universitaria he aprendido 
+      Los proyectos que encontrarán en este perfil son muy diversos, pues a lo largo de mi experiencia he aprendido 
       diversos lenguajes de programación con sus respectivas disciplinas. 
       Yo aprendí a programar en java, el cual ha sido un gran lenguaje de programación para empezar, pues después de aprender
       java, aprender otro lenguaje de programación fue relativamente sencillo. 
@@ -11,5 +11,5 @@
       trabajado con otros lenguajes de programación, como los son R, lisp, prolog, fortran y php. De igual manera tengo conocimiento 
       de otras tecnologías como arduino, mysql, html, css, Node Js, React, Express, Git, VSCode, entre otros.
       
-- 🌱 Actualmente me estoy adentrando en el mundo del Machine Learning y el data science. 
+- 🌱 Actualmente estoy trabajando en la idustria financiera como cientifico de datos. 
 

@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/96603116/147367876-cae96331-4670-45cd-ac8d-8959f2f64153.png)
 
 
-- 👋 Hola, soy Oscar, egresado de la Universidad Michoacana de San Nicolás de Hidalgo. Estudié la licenciatura en ciencias físico-matemáticas.
+- 👋 Hola, soy Oscar, Maestro en finanzas por el ITAM y licenciado en ciencias físico-matemáticas por la UMSNH.
 - 👀 Estoy interesado en compartir algunos proyectos escolares y personales relacionados con el mundo de la programación.
       Los proyectos que encontrarán en este perfil son muy diversos, pues a lo largo de mi experiencia he aprendido 
       diversos lenguajes de programación con sus respectivas disciplinas. 
@@ -10,6 +10,4 @@
       Los lenguajes de programación que más experiencia tengo trabajando son java, javaScript y python; sin embargo, he
       trabajado con otros lenguajes de programación, como los son R, lisp, prolog, fortran y php. De igual manera tengo conocimiento 
       de otras tecnologías como arduino, mysql, html, css, Node Js, React, Express, Git, VSCode, entre otros.
-      
-- 🌱 Actualmente estoy trabajando en la idustria financiera como cientifico de datos. 
 

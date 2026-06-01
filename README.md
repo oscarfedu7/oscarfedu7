@@ -7,7 +7,7 @@
       diversos lenguajes de programación con sus respectivas disciplinas. 
       Yo aprendí a programar en java, el cual ha sido un gran lenguaje de programación para empezar, pues después de aprender
       java, aprender otro lenguaje de programación fue relativamente sencillo. 
-      Los lenguajes de programación que más experiencia tengo trabajando son java, javaScript y python; sin embargo, he
-      trabajado con otros lenguajes de programación, como los son R, lisp, prolog, fortran y php. De igual manera tengo conocimiento 
+      Los lenguajes de programación que más experiencia tengo trabajando son python, SAS y SQL; sin embargo, he
+      trabajado con otros lenguajes de programación, como los son java, javaScript, R, lisp, prolog, fortran y php. De igual manera tengo conocimiento 
       de otras tecnologías como arduino, mysql, html, css, Node Js, React, Express, Git, VSCode, entre otros.
 
